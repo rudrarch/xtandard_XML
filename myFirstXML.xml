@@ -3,7 +3,7 @@
     <name>Product One</name> 
     <description>Product One is an exciting new widget that will 
       simplify your life.</description> 
-    <cost>$19.95</cost> 
+    <Cost>$19.95</cost> 
     <shipping>$2.95</shipping> 
   </product> 
   <product> 
